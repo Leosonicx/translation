@@ -32,3 +32,7 @@ This English patch requires modification of the game client.
 Using this English patch could result in account termination.
 
 **You have been warned.** 
+
+## Acknowledgements
+`Zakum` worked with me to create the initial glossary of terms used for the translations.
+* Check out his site [bapharia.com](https://bapharia.com/), it's pretty neat!
