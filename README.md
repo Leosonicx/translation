@@ -8,7 +8,7 @@ This project is _largely_ machine translated via DeepL (with a custom BP-specifi
 
 Feedback / Issue reports are welcome, either on the Github issue tracker or our Discord:
 
-[![Discord](https://img.shields.io/discord/768944910778630194.svg?style=for-the-badge&label=SkyProc&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/epaUhEk)
+[![Discord](https://img.shields.io/discord/768944910778630194.svg?style=for-the-badge&label=SkyProc&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/JgxgTB6J5)
 
 ## Installation
 1. Download the latest release from the [Releases page](https://github.com/SkyProc/translation/releases/).
